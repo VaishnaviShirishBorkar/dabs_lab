@@ -22,3 +22,4 @@ targets:
   prod:
     workspace:
       root_path: /Shared/.bundle/${bundle.name}/${bundle.target}
+      host: https://adb-7405612002206219.19.azuredatabricks.net
